@@ -163,3 +163,164 @@
 - Genetics Basics (DNA, RNA)
 - Human Physiology
 - Biotechnology Basics
+
+
+# 🚀 IIT + Germany Scientist Roadmap (Class 9 → 12)
+
+This roadmap is designed for building a strong foundation for **IIT + Mechatronics + Aerospace + Germany** goals.
+
+---
+
+## ✅ CLASS 9 – Foundation Year
+
+### 📘 Physics
+- Motion (Distance, Speed, Velocity, Acceleration)
+- Laws of Motion (Intro to Newton’s Laws)
+- Force and Friction
+- Work, Power and Energy (Basic)
+- Gravitation (Basics)
+- Sound (Waves introduction)
+
+### 📗 Mathematics
+- Number Systems
+- Polynomials
+- Linear Equations in Two Variables
+- Coordinate Geometry (Basics)
+- Introduction to Trigonometry
+- Statistics
+- Probability (Intro)
+
+### 🧪 Chemistry
+- Matter in Our Surroundings
+- Atoms and Molecules
+- Structure of Atom
+- Basic Stoichiometry
+- Introduction to Periodic Table
+
+### 🔧 Skill Development (Side Learning)
+- Basic Python
+- Introduction to Robotics (videos/projects)
+- Simple electronics experiments
+
+---
+
+## ✅ CLASS 10 – Strong Foundation Year
+
+### 📘 Physics
+- Kinematics (Motion in 1D & 2D)
+- Laws of Motion (Advanced understanding)
+- Work, Energy and Power (Advanced)
+- Heat and Thermodynamics (Basics)
+- Electricity (Current, Resistance, Ohm’s Law)
+- Magnetism (Basics)
+
+### 📗 Mathematics
+- Quadratic Equations
+- Arithmetic Progressions
+- Trigonometric Identities
+- Coordinate Geometry (Distance Formula, Section Formula)
+- Statistics (Mean, Median, Mode)
+- Probability (Advanced)
+
+### 🧪 Chemistry
+- Chemical Reactions and Equations
+- Acids, Bases and Salts
+- Metals and Non-metals
+- Carbon and Its Compounds
+- Periodic Classification of Elements
+
+### 🔧 Skill Development
+- Arduino Basics
+- Sensors Introduction
+- Basic C/C++ Programming
+
+---
+
+## ✅ CLASS 11 – JEE Level Start
+
+### 📘 Physics
+- Units and Measurements
+- Advanced Kinematics
+- Laws of Motion
+- Work, Energy and Power
+- Circular Motion
+- Rotational Mechanics
+- Gravitation
+- Thermodynamics
+- Mechanical Properties of Fluids
+- Oscillations (SHM)
+
+### 📗 Mathematics
+- Sets, Relations and Functions
+- Trigonometric Functions
+- Complex Numbers
+- Quadratic Equations
+- Permutations and Combinations
+- Binomial Theorem
+- Sequences and Series
+- Straight Lines and Circles
+- Limits and Derivatives (Intro)
+
+### 🧪 Chemistry
+- Mole Concept
+- Atomic Structure
+- Thermodynamics
+- Chemical Equilibrium
+- Redox Reactions
+- Hydrocarbons
+- Environmental Chemistry (Basic)
+
+### 🔧 Skill Development
+- Python for Physics/Math
+- Robotics Projects (Line Follower, Obstacle Avoider)
+- CAD Basics (Fusion 360 / SolidWorks intro)
+
+---
+
+## ✅ CLASS 12 – Advanced JEE Level
+
+### 📘 Physics
+- Electrostatics
+- Capacitors
+- Current Electricity
+- Magnetism
+- Electromagnetic Induction
+- Alternating Current
+- Ray Optics
+- Wave Optics
+- Modern Physics
+- Semiconductor Devices
+
+### 📗 Mathematics
+- Continuity and Differentiability
+- Applications of Derivatives
+- Integrals
+- Differential Equations
+- Matrices
+- Determinants
+- 3D Geometry
+- Vectors
+- Probability
+
+### 🧪 Chemistry
+- Electrochemistry
+- Chemical Kinetics
+- Coordination Compounds
+- Aldehydes & Ketones
+- Carboxylic Acids
+- Polymers
+- Biomolecules
+
+### 🔧 Skill Development
+- MATLAB / Octave
+- Control Systems Basics
+- Basic Rocket & Aircraft Simulation Projects
+
+---
+
+## 🎯 Final Goal
+
+**Crack IIT → Study in Germany → Become a Scientist in Mechatronics & Aerospace**
+
+
+
