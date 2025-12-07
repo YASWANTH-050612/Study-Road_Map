@@ -316,6 +316,63 @@ This roadmap is designed for building a strong foundation for **IIT + Mechatroni
 - Control Systems Basics
 - Basic Rocket & Aircraft Simulation Projects
 
+
+# 🌐 Free Learning Resources – Aerospace, Mechatronics, Biology
+
+## 🛰️ Aerospace & Space Science
+
+### 🚀 Rocket Propulsion & Space Basics
+- **NASA Official Learning** → https://www.nasa.gov  
+- **ISRO Official** → https://www.isro.gov.in  
+- **MIT OpenCourseWare (Aerospace & Rockets)** → https://ocw.mit.edu  
+
+### 🛰️ Orbital Mechanics (Kepler’s Laws)
+- **Khan Academy** → https://www.khanacademy.org  
+
+### 🛩️ Fluid Dynamics (Airflow Over Wings)
+- **MIT OCW – Fluid Mechanics** → https://ocw.mit.edu  
+- **NASA Glenn Research Center** → https://www.grc.nasa.gov  
+
+---
+
+## 🤖 Mechatronics & Robotics
+
+### 🔧 Electronics & Circuits
+- **All About Circuits** → https://www.allaboutcircuits.com  
+- **Electronics Tutorials** → https://www.electronics-tutorials.ws  
+
+### 🧠 Arduino & Microcontrollers
+- **Arduino Official Tutorials** → https://www.arduino.cc/en/Tutorials  
+- **TinkerCAD Circuits (Online Simulator)** → https://www.tinkercad.com  
+
+### ⚙️ Control Systems (PID)
+- **MATLAB Control Tutorials** → https://ctms.engin.umich.edu  
+- **Khan Academy (Math for Control Systems)** → https://www.khanacademy.org  
+
+---
+
+## 🧬 Biology (Awareness Level)
+
+### 🔬 Cell Structure, DNA, Genetics
+- **Khan Academy Biology** → https://www.khanacademy.org/science/biology  
+- **Bozeman Science (YouTube)** → https://www.youtube.com/@bozemanscience  
+
+### 🧪 Biotechnology Basics
+- **MIT OpenCourseWare (Biotech)** → https://ocw.mit.edu  
+- **Coursera (Free Audit Mode)** → https://www.coursera.org  
+
+---
+
+## 🧠 All-in-One Learning Platforms
+
+| Platform | Covers |
+|----------|--------|
+| Khan Academy | Physics, Math, Biology |
+| MIT OpenCourseWare | Aerospace, Robotics, Engineering |
+| Coursera (Free) | Robotics, Biotech |
+| edX (Free) | Space Science, Engineering |
+| YouTube (ISRO/NASA/MIT) | Space & Aerospace |
+
 ---
 
 ## 🎯 Final Goal
